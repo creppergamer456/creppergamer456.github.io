@@ -1,0 +1,233 @@
+body {
+    white-space: nowrap;
+    margin: 0;
+    /* Elimina el margen predeterminado del body */
+    padding: 0;
+    /* Elimina el padding predeterminado del body */
+    width: 100%;
+    /* Utiliza vw para el ancho del viewport */
+    height: 100%;
+    /* Utiliza vh para la altura del viewport */
+    /* Oculta cualquier desbordamiento */
+    background-color: black;
+    /*establece el color de fondo*/
+}
+
+img {
+    width: 100%;
+    /* La imagen ocupa el 100% del ancho del body */
+    height: 100%;
+    /* La imagen ocupa el 100% de la altura del body */
+    object-fit: cover;
+    /* Ajusta la imagen para cubrir todo el espacio */
+    position: fixed;
+    /* La imagen se fija al viewport */
+    z-index: -1;
+    /* Coloca la imagen detrás de otros elementos */
+}
+
+#Logo {
+    width: 20%;
+    /* La imagen ocupa el 100% del ancho del body */
+    height: 30%;
+    /* La imagen ocupa el 100% de la altura del body */
+    object-fit: cover;
+    /* Ajusta la imagen para cubrir todo el espacio */
+    position: fixed;
+    /* La imagen se fija al viewport */
+    z-index: -1;
+    /* Coloca la imagen detrás de otros elementos */
+    right: 30px;
+}
+
+#h1_1 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 250%;
+}
+
+#h1_2 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 250%;
+}
+
+#h1_3 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 250%;
+}
+
+#h1_4 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 250%;
+    top: 50%;
+}
+
+#h1_5 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 250%;
+}
+
+#h1_6 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 250%;
+}
+
+#h1_7 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 250%;
+}
+
+#h1_8 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 500%;
+    top: 30%;
+}
+
+#h2_1 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 20%;
+}
+
+#h2_2 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 20%;
+}
+
+#h2_3 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 20%;
+}
+
+#h2_4 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 60%;
+}
+
+#h2_5 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 20%;
+}
+
+#h2_6 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 45%;
+}
+
+#h2_7 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 20%;
+}
+
+#h2_8 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 45%;
+}
+
+#h2_9 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 20%;
+}
+
+#h2_10 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 60%;
+}
