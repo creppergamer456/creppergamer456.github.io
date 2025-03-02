@@ -51,7 +51,7 @@
      imagen[4].style.left = pos_inicial + width * 4 + "px";
      imagen[5].style.left = pos_inicial + width * 5 + "px";
      imagen[6].style.left = pos_inicial + width * 6 + "px";
-     imagen[7].style.left = pos_inicial + width * 6 + "px";
+     imagen[7].style.left = pos_inicial + width * 7 + "px";
      imagen[8].style.left = (pos_inicial + width - 300) + "px";
      h1[0].style.left = (pos_inicial + width / 2) + "px";
      h2[0].style.left = (pos_inicial + width / 2) + "px";
