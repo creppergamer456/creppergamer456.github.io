@@ -23,7 +23,7 @@
  }
 
  function move() {
-     if (num > -7 && num < 1) {
+     if (num > -8 && num < 1) {
          var pos_final = width * num;
          if (pos_inicial < pos_final) {
              pos_inicial += 5;
@@ -31,7 +31,7 @@
          if (pos_inicial > pos_final) {
              pos_inicial -= 5;
          }
-     } else if (num > -7) {
+     } else if (num > -8) {
          mv = true;
          num = num - 1;
      } else if (num < 1) {
