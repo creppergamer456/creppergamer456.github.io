@@ -54,22 +54,22 @@
      imagen[7].style.left = (pos_inicial + width - 300) + "px";
      h1[0].style.left = (pos_inicial + width / 2) + "px";
      h2[0].style.left = (pos_inicial + width / 2) + "px";
-     h1[1].style.left = (pos_inicial + width + width / 2) + "px";
-     h2[1].style.left = (pos_inicial + width + width / 2) + "px";
-     h1[2].style.left = (pos_inicial + width * 2 + width / 2) + "px";
-     h2[2].style.left = (pos_inicial + width * 2 + width / 2) + "px";
-     h1[3].style.left = (pos_inicial + width * 2 + width / 2) + "px";
-     h2[3].style.left = (pos_inicial + width * 2 + width / 2) + "px";
-     h1[4].style.left = (pos_inicial + width * 3 + width / 2) + "px";
-     h2[4].style.left = (pos_inicial + width * 3 + width / 2) + "px";
-     h2[5].style.left = (pos_inicial + width * 3 + width / 2) + "px";
-     h1[5].style.left = (pos_inicial + width * 4 + width / 2) + "px";
-     h2[6].style.left = (pos_inicial + width * 4 + width / 2) + "px";
-     h2[7].style.left = (pos_inicial + width * 4 + width / 2) + "px";
-     h1[6].style.left = (pos_inicial + width * 5 + width / 2) + "px";
-     h2[8].style.left = (pos_inicial + width * 5 + width / 2) + "px";
-     h2[9].style.left = (pos_inicial + width * 5 + width / 2) + "px";
-     h1[7].style.left = (pos_inicial + width * 6 + width / 2) + "px";
+     h1[1].style.left = (pos_inicial + width * 2 + width / 2) + "px";
+     h2[1].style.left = (pos_inicial + width  + width * 2 / 2) + "px";
+     h1[2].style.left = (pos_inicial + width * 3 + width / 2) + "px";
+     h2[2].style.left = (pos_inicial + width * 3 + width / 2) + "px";
+     h1[3].style.left = (pos_inicial + width * 3 + width / 2) + "px";
+     h2[3].style.left = (pos_inicial + width * 3 + width / 2) + "px";
+     h1[4].style.left = (pos_inicial + width * 4 + width / 2) + "px";
+     h2[4].style.left = (pos_inicial + width * 4 + width / 2) + "px";
+     h2[5].style.left = (pos_inicial + width * 4 + width / 2) + "px";
+     h1[5].style.left = (pos_inicial + width * 5 + width / 2) + "px";
+     h2[6].style.left = (pos_inicial + width * 5 + width / 2) + "px";
+     h2[7].style.left = (pos_inicial + width * 5 + width / 2) + "px";
+     h1[6].style.left = (pos_inicial + width * 6 + width / 2) + "px";
+     h2[8].style.left = (pos_inicial + width * 6 + width / 2) + "px";
+     h2[9].style.left = (pos_inicial + width * 6 + width / 2) + "px";
+     h1[7].style.left = (pos_inicial + width * 7 + width / 2) + "px";
 
 
  }
