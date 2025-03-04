@@ -129,7 +129,7 @@ img {
     z-index: 1;
     left: 100%;
     font-size: 70px;
-    top: 0%;
+    top: 100%;
 }
 #h2_1 {
     transform: translateX(-50%);
