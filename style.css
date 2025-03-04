@@ -128,8 +128,7 @@ img {
     color: white;
     z-index: 1;
     left: 100%;
-    font-size: 40px;
-    top: 30%;
+    font-size: 70px;
 }
 #h2_1 {
     transform: translateX(-50%);
