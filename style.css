@@ -121,6 +121,16 @@ img {
     font-size: 500%;
     top: 30%;
 }
+#h1_9 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 100%;
+    font-size: 500%;
+    top: 30%;
+}
 #h2_1 {
     transform: translateX(-50%);
     text-align: center;
@@ -230,4 +240,15 @@ img {
     font-size: 200%;
     top: 60%;
 }
+#h2_11 {
+    transform: translateX(-50%);
+    text-align: center;
+    position: fixed;
+    color: white;
+    z-index: 1;
+    left: 50%;
+    font-size: 200%;
+    top: 20%;
+}
+
 
