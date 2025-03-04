@@ -128,8 +128,7 @@ img {
     color: white;
     z-index: 1;
     left: 100%;
-    font-size: 70px;
-    top: 70%;
+    font-size: 250%%;
 }
 #h2_1 {
     transform: translateX(-50%);
@@ -247,7 +246,7 @@ img {
     color: white;
     z-index: 1;
     left: 50%;
-    font-size: 50px;
+    font-size: 200%;
     top: 30%;
 }
 
